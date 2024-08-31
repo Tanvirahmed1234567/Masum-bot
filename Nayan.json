@@ -5,17 +5,19 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "♥︎╣[-𝖠 𝖱 𝖸 𝖠 𝖭-]╠♥︎",
+  "BOTNAME": "𝐅𝐀𝐇𝐈𝐌 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘",
   "PREFIX": "/",
   "OPERATOR": [
-    "61564523816700"
+    "61564523816700",
+    "100029901980367"
   ],
   "ADMINBOT": [
     "61565025325331",
-    "61564523816700"
+    "61564523816700",
+    "100029901980367"
   ],
   "OWNER": ["100000959749712"], 
-  "APPROVED": [],
+  "APPROVED": [100029901980367],
   "disabledcmds": [],
   "disabledevents": [],
   "note": "make sure that the bot name you entered is all lowercase",
